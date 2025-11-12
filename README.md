@@ -59,7 +59,8 @@ npm start
 
 ## 📸 Demo
 
-![NameNest Demo](https://your-demo-image-link.com)
+<img width="661" height="572" alt="image" src="https://github.com/user-attachments/assets/47fdda3b-8f72-4cc1-89f7-c09d602b439a" />
+
 
 ## 💡 Features
 
